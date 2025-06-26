@@ -48,6 +48,6 @@ echo "[*] Test running for $TEST_DURATION seconds..."
 sleep $TEST_DURATION
 
 echo "[*] Stopping all slowloris processes..."
-kill $PID1 $PID2 $PID3
+kill $PID1 $PID2 $PID3 $PID4
 
 echo "[*] Logs saved in $LOGDIR/"
