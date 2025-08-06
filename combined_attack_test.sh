@@ -18,7 +18,7 @@ GE_LOGDIR="./logs_combined/goldeneye"
 mkdir -p "$GE_LOGDIR"
 
 # === Slowloris Parameters ===
-SL_SCRIPT="./minimal_slowloris.py"
+SL_SCRIPT="./slowloris.py"
 SL_PORT=80
 SL_SOCKETS=200
 SL_SLEEPTIME=10
