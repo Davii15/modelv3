@@ -15,7 +15,7 @@ RAND_UA="--randuseragents"
 USE_HTTPS=""  # set to "--https" if needed
 
 # === Script Location ===
-SCRIPT="./minimal_slowloris.py"  # Use the lightweight version
+SCRIPT="./slowloris.py"  # Use the lightweight version
 
 # === Log Directory ===
 LOGDIR="./logs_slowloris"
